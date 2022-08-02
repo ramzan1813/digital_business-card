@@ -1,13 +1,15 @@
-.mobile_gb {
+/* Light MObile */
+
+.mobile_gb-single-light {
   position: absolute;
   width: 550px;
   height: 868px;
-  left: 65px;
-  top: 53px;
+  left: 664px;
+  top: 960px;
 
   background: #23252c;
 }
-.mobile_profile {
+.mobile_profile-single-light {
   position: absolute;
   width: 317px;
   height: 317px;
@@ -18,15 +20,15 @@
   background-size: 317px 317px;
   border-radius: 10px 10px 0px 0px;
 }
-.mobile_buttom {
+.mobile_buttom-single-light {
   position: absolute;
   width: 317px;
   height: 463px;
   left: 116px;
   top: 361px;
-  background: #1a1b21;
+  background: #f0f0f1;
 }
-.Name {
+.Name-single-light {
   position: absolute;
   width: 178.06px;
   height: 25.81px;
@@ -40,9 +42,9 @@
   line-height: 30px;
   text-align: center;
 
-  color: #ffffff;
+  color: #2b283a;
 }
-.Pation-discription {
+.Pation-discription-single-light {
   position: absolute;
   width: 178.06px;
   height: 14.19px;
@@ -56,9 +58,9 @@
   line-height: 15px;
   text-align: center;
 
-  color: #f3bf99;
+  color: #f47d27;
 }
-.discription {
+.discription-single-light {
   position: absolute;
   width: 228px;
   height: 16px;
@@ -74,9 +76,9 @@
 
   text-align: center;
 
-  color: #f5f5f5;
+  color: #4a4e74;
 }
-.email_button {
+.email_button-single-light {
   box-sizing: border-box;
 
   /* Auto layout */
@@ -89,8 +91,9 @@
   gap: 8px;
 
   position: absolute;
-  width: 115px;
+  width: 247px;
   height: 34px;
+  right: 152px;
   left: 151px;
   top: 468px;
 
@@ -105,36 +108,14 @@
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
 }
-.linkdin_button {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 9px 13px 9px 11px;
-  gap: 8px;
-
-  position: absolute;
-  width: 115px;
-  height: 34px;
-  left: 283px;
-  top: 468px;
-
-  color: #f5f5f5;
-  background: #5093e2;
-  /* shadow/sm */
-  border: 1px solid #5093e2;
-
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
-  border-radius: 6px;
-}
-.info-section {
+.info-section-single-light {
   position: absolute;
   width: 248px;
   height: 198px;
   left: 151px;
   top: 500px;
 }
-.about {
+.about-single-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
@@ -142,9 +123,9 @@
   line-height: 150%;
   /* or 24px */
 
-  color: #f5f5f5;
+  color: #2b283a;
 }
-.about_info {
+.about_info-single-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -152,9 +133,9 @@
   line-height: 150%;
   /* or 15px */
 
-  color: #dcdcdc;
+  color: #2b283a;
 }
-.Interests {
+.Interests-single-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
@@ -162,9 +143,9 @@
   line-height: 150%;
   /* or 24px */
 
-  color: #f5f5f5;
+  color: #2b283a;
 }
-.Interests_info {
+.Interests_info-single-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -172,39 +153,45 @@
   line-height: 150%;
   /* or 15px */
 
-  color: #dcdcdc;
+  color: #2b283a;
 }
-.buttom_icon {
+.buttom_icon-single-light {
   position: absolute;
   width: 317px;
   height: 64px;
   left: 116px;
   top: 760px;
 
-  background: #161619;
+  background: #d5d4d8;
   border-radius: 0px 0px 10px 10px;
 }
-.twitter_icon {
+.twitter_icon-single-light {
   position: absolute;
-  left: 13%;
+  left: 8%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.facebook_icon {
+.facebook_icon-single-light {
   position: absolute;
-  left: 33%;
+  left: 26%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.instagram_icon {
+.instagram_icon-single-light {
   position: absolute;
-  left: 53%;
+  left: 43%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.github_icon {
+.linkedin_icon-single-light {
   position: absolute;
-  left: 73%;
+  left: 60%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
+}
+.github_icon-single-light {
+  position: absolute;
+  left: 79%;
+  top: 13%;
+  color: #ffffff;
 }

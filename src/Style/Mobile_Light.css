@@ -1,13 +1,15 @@
-.mobile_gb {
+/* Light MObile */
+
+.mobile_gb-light {
   position: absolute;
   width: 550px;
   height: 868px;
-  left: 65px;
+  left: 664px;
   top: 53px;
 
   background: #23252c;
 }
-.mobile_profile {
+.mobile_profile-light {
   position: absolute;
   width: 317px;
   height: 317px;
@@ -18,15 +20,15 @@
   background-size: 317px 317px;
   border-radius: 10px 10px 0px 0px;
 }
-.mobile_buttom {
+.mobile_buttom-light {
   position: absolute;
   width: 317px;
   height: 463px;
   left: 116px;
   top: 361px;
-  background: #1a1b21;
+  background: #f0f0f1;
 }
-.Name {
+.Name-light {
   position: absolute;
   width: 178.06px;
   height: 25.81px;
@@ -40,9 +42,9 @@
   line-height: 30px;
   text-align: center;
 
-  color: #ffffff;
+  color: #2b283a;
 }
-.Pation-discription {
+.Pation-discription-light {
   position: absolute;
   width: 178.06px;
   height: 14.19px;
@@ -56,9 +58,9 @@
   line-height: 15px;
   text-align: center;
 
-  color: #f3bf99;
+  color: #f47d27;
 }
-.discription {
+.discription-light {
   position: absolute;
   width: 228px;
   height: 16px;
@@ -74,9 +76,9 @@
 
   text-align: center;
 
-  color: #f5f5f5;
+  color: #4a4e74;
 }
-.email_button {
+.email_button-light {
   box-sizing: border-box;
 
   /* Auto layout */
@@ -105,7 +107,7 @@
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
 }
-.linkdin_button {
+.linkdin_button-light {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -124,17 +126,17 @@
   /* shadow/sm */
   border: 1px solid #5093e2;
 
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
 }
-.info-section {
+.info-section-light {
   position: absolute;
   width: 248px;
   height: 198px;
   left: 151px;
   top: 500px;
 }
-.about {
+.about-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
@@ -142,9 +144,9 @@
   line-height: 150%;
   /* or 24px */
 
-  color: #f5f5f5;
+  color: #2b283a;
 }
-.about_info {
+.about_info-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -152,9 +154,9 @@
   line-height: 150%;
   /* or 15px */
 
-  color: #dcdcdc;
+  color: #2b283a;
 }
-.Interests {
+.Interests-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
@@ -162,9 +164,9 @@
   line-height: 150%;
   /* or 24px */
 
-  color: #f5f5f5;
+  color: #2b283a;
 }
-.Interests_info {
+.Interests_info-light {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -172,39 +174,39 @@
   line-height: 150%;
   /* or 15px */
 
-  color: #dcdcdc;
+  color: #2b283a;
 }
-.buttom_icon {
+.buttom_icon-light {
   position: absolute;
   width: 317px;
   height: 64px;
   left: 116px;
   top: 760px;
 
-  background: #161619;
+  background: #d5d4d8;
   border-radius: 0px 0px 10px 10px;
 }
-.twitter_icon {
+.twitter_icon-light {
   position: absolute;
   left: 13%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.facebook_icon {
+.facebook_icon-light {
   position: absolute;
   left: 33%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.instagram_icon {
+.instagram_icon-light {
   position: absolute;
   left: 53%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
-.github_icon {
+.github_icon-light {
   position: absolute;
   left: 73%;
   top: 13%;
-  color: #918e9b;
+  color: #ffffff;
 }
