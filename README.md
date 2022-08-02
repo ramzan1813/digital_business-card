@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+## figma File Link
+https://www.figma.com/file/UvQjcRMNUDR7Bp9oaKIII6/Digital-Business-Card?node-id=0%3A1
 
 ![Capture PNG564](https://user-images.githubusercontent.com/72704184/182300473-92d2f6c3-452c-4c6e-ad5b-ed8668a2d334.PNG)
 
