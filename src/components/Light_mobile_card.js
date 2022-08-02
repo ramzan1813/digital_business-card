@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function mobile_light() {
   return (
     <div className="mobile_gb-light">

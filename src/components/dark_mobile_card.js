@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function mobile_dark() {
   return (
     <div className="mobile_gb">
